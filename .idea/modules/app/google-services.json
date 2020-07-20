@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383597884414",
+    "firebase_url": "https://twainnews.firebaseio.com",
+    "project_id": "twainnews",
+    "storage_bucket": "twainnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383597884414:android:2f0381fb17a2b072a886af",
+        "android_client_info": {
+          "package_name": "com.twainlabs.twainnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383597884414-skh4601ttcqfrncn14t33hcpmokspde4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twainlabs.twainnews",
+            "certificate_hash": "5411ef0a55e609d4deb86e1dca8335004eac912d"
+          }
+        },
+        {
+          "client_id": "383597884414-n9f593euso4f3kbjkpj09a87kv26vsng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkLpYwwzYfpIPjiO36t2YJwwaAv_F-NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383597884414-n9f593euso4f3kbjkpj09a87kv26vsng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
