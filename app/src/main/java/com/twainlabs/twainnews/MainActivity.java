@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void parseJSON(){
-        String url = "https://newsapi.org/v2/everything?q=bitcoin&from=2020-06-20&sortBy=publishedAt&apiKey=f1f1686df9b842209b7dc10f5163e2cb";
+        String url = "https://newsapi.org/v2/everything?domains=wsj.com&apiKey=f1f1686df9b842209b7dc10f5163e2cb";
 
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null,
                 new Response.Listener<JSONObject>() {
